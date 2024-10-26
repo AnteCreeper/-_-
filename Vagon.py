@@ -210,4 +210,4 @@ def track_and_monitor(video_source):
     cv2.destroyAllWindows()  # Закрытие всех окон
 
 # Пример вызова функции
-track_and_monitor("video.mp4")  # Замените "your_video.mp4" на путь к вашему видеофайлу или используйте 0 для веб-камеры
+track_and_monitor("video.mp4")

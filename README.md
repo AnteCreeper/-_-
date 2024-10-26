@@ -1,5 +1,6 @@
+
 <div style="text-align: center;">
-  <img src=LOGO.jpg width="300"/>
+  <img src="LOGO.png" width="600" alt="Logo">
 </div>
 
 # Описание
